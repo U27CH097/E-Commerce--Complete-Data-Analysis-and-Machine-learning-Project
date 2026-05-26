@@ -5,10 +5,10 @@ Python, Machine Learning, Power Bi
 # Project Goal
 The main goal of this project is to:
 
-1)Analyze the Brazilian e-commerce market behavior
-2)Identify the most important factors that affect delivery times
-3)Support better business decisions using data-driven insights
-4)Prepare data for machine learning models
+- Analyze the Brazilian e-commerce market behavior.
+- Identify the most important factors that affect delivery times
+- Support better business decisions using data-driven insights
+- Prepare data for machine learning models
 
 # Steps Followed in this Project:
 1)Loading the Datasets 
