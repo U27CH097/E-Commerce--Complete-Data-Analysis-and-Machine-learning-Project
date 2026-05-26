@@ -49,7 +49,7 @@ Order patterns vary by day of the week
 
 # These insights can be used to:
 
- Improve delivery performance
- Optimize inventory management
- Enhance customer satisfaction
- Support data-driven business decisions
+1) Improve delivery performance
+2) Optimize inventory management
+3) Enhance customer satisfaction
+4) Support data-driven business decisions
