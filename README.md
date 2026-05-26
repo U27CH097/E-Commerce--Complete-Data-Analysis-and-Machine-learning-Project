@@ -1,4 +1,7 @@
 # E-Commerce--Complete-Data-Analysis-and-Machine-learning-Project
+
+# Technology used:
+Python, Machine Learning, Power Bi
 # Project Goal
 The main goal of this project is to:
 
