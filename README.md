@@ -58,3 +58,7 @@ The main goal of this project is to:
 - Optimize inventory management
 - Enhance customer satisfaction
 - Support data-driven business decisions
+## Power Bi Screenshots:
+<img width="1147" height="663" alt="Screenshot 2026-05-31 121944" src="https://github.com/user-attachments/assets/3b2c2170-8ca6-4521-8866-1be8f45c3e50" />
+<img width="1154" height="681" alt="Screenshot 2026-05-31 121957" src="https://github.com/user-attachments/assets/08233d9f-ee23-42cc-a41a-0b24f08944f6" />
+
